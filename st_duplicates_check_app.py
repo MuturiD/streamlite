@@ -12,6 +12,7 @@ import numpy as np
 import re
 from PIL import Image
 import requests
+import openpyxl
 
 # Load the M-Gas logo
 logo_url = "https://mgas.ke/wp-content/uploads/2023/08/mgas-logo.png"
